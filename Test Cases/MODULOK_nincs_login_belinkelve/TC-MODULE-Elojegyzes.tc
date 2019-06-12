@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-MODULE-Elojegyzes</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b402b9b1-0984-4882-a0c5-49c3e223f502</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c30eda1e-b838-4441-ba43-0625be1a28e1</id>
+      <masked>false</masked>
+      <name>ExpectedValue</name>
+   </variable>
+</TestCaseEntity>

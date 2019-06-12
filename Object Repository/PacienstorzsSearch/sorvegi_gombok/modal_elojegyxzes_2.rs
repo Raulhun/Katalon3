@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>modal_elojegyxzes_2</name>
+   <tag></tag>
+   <elementGuidId>04578809-ef6f-4931-9eeb-c2bc3d1c9c85</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='calendar-list']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;content&quot;)/div[@id=&quot;ajaxcontent&quot;]/div[@id=&quot;patient-reservations&quot;]/div[@id=&quot;calendar-list&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>calendar-list</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>inner</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+						
+        								
+						 előjegyzései
+						2019.05.01 11:45Dr. Brokvik Ulrich Hanburber Béla (Urológia)pöcsmetszés (30 perc)2019.04.05 09:40Dr. Psyklon (Rendelés)100 minute (100 perc)2019.04.05 08:45Dr. Brokvik Ulrich Hanburber Béla (Urológia)hereátültetés (200 perc)2019.04.02 06:15Dr. Brokvik Ulrich Hanburber Béla (Urológia)agyzsugorítás (45 perc)2019.04.01 09:05Dr. Psyklon (Rendelés)100 minute (100 perc)2019.03.27 10:30Dr. Brokvik Ulrich Hanburber Béla (Urológia)agyzsugorítás (45 perc)2019.03.18 07:15Dr. Brokvik Ulrich Hanburber Béla (Urológia)agyzsugorítás (45 perc)2019.03.15 06:25Dr. Psyklon (Rendelés)10 perces saját sablonnal (10 perc)2019.03.14 11:30Dr. Psyklon (Rendelés)agyátültetés (25 perc)2019.03.14 09:10Dr. Psyklon (Rendelés)5 perces (50 perc)
+					</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/div[@id=&quot;ajaxcontent&quot;]/div[@id=&quot;patient-reservations&quot;]/div[@id=&quot;calendar-list&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='calendar-list']</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='patient-reservations']/div</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='blasko.ve@freemail.hu'])[1]/following::div[3]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Blaskó Veszta'])[1]/following::div[3]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section[2]/div/div[2]/div</value>
+   </webElementXpaths>
+</WebElementEntity>

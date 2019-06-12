@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-MODUL-Pacienstorzs-TAJ-check-EXCELBOL_</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a773599d-727b-4406-add4-2818c6581c88</testCaseGuid>
+   <variable>
+      <defaultValue>'888888888'</defaultValue>
+      <description></description>
+      <id>91f8ef2c-4dec-4db5-ba5c-d800ff008f4d</id>
+      <masked>true</masked>
+      <name>var_azonosito</name>
+   </variable>
+   <variable>
+      <defaultValue>'taj_hibas'</defaultValue>
+      <description></description>
+      <id>372d96b3-9aa3-462e-9525-ea2dcf602365</id>
+      <masked>true</masked>
+      <name>var_statusExpectedResult</name>
+   </variable>
+</TestCaseEntity>

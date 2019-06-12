@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-MODUL-Pacienstorzs-SzulDat-check-EXCELBOL</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d1da460f-0297-4da2-b551-239239fdb9f9</testCaseGuid>
+   <variable>
+      <defaultValue>'taj_hibas'</defaultValue>
+      <description></description>
+      <id>fc9929f9-5f5d-4105-a8b5-81df205ed4cf</id>
+      <masked>true</masked>
+      <name>var_statusExpectedResult</name>
+   </variable>
+   <variable>
+      <defaultValue>'1980-12-03\r\n'</defaultValue>
+      <description></description>
+      <id>641c207c-32f5-45a9-8b48-ff97568ea959</id>
+      <masked>false</masked>
+      <name>var_szulDat</name>
+   </variable>
+</TestCaseEntity>

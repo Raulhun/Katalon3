@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_kereses_paciens_torles</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>72ae32b9-af4f-4f23-bcc2-9269eef10f90</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>5f315924-db73-4e45-9cb9-ce53be402d4e</id>
+      <masked>false</masked>
+      <name>variable</name>
+   </variable>
+</TestCaseEntity>

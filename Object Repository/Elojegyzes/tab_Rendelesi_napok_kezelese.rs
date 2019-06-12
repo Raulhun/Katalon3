@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>tab_Rendelesi_napok_kezelese</name>
+   <tag></tag>
+   <elementGuidId>b0d1307d-d0ea-4d65-848f-d7595679b977</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@onclick=&quot;if($(this).hasClass('active')){return};if($('#elojegyzes-felhasznalo').val().length!=1){
+alert('A rendelési napok kezelése csak egy kiválasztott szakrendelés esetén lehetséges!')
+return
+};$$('elojegyzes-tabs').find('.tab').removeClass('active');$(this).addClass('active');$('#copies').val(0)
+$('.nem-elojegyzes').removeClass('hidden');
+$('.nem-rendeles').addClass('hidden')
+$('#rendelesi-napok').prop('checked',1).change()
+$$('heti-nezet').addClass('hidden')&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>tab</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>if($(this).hasClass('active')){return};if($('#elojegyzes-felhasznalo').val().length!=1){
+alert('A rendelési napok kezelése csak egy kiválasztott szakrendelés esetén lehetséges!')
+return
+};$$('elojegyzes-tabs').find('.tab').removeClass('active');$(this).addClass('active');$('#copies').val(0)
+$('.nem-elojegyzes').removeClass('hidden');
+$('.nem-rendeles').addClass('hidden')
+$('#rendelesi-napok').prop('checked',1).change()
+$$('heti-nezet').addClass('hidden')</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Rendelési napok kezelése</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;elojegyzes-tabs&quot;)/div[@class=&quot;tab&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@onclick=&quot;if($(this).hasClass('active')){return};if($('#elojegyzes-felhasznalo').val().length!=1){
+alert('A rendelési napok kezelése csak egy kiválasztott szakrendelés esetén lehetséges!')
+return
+};$$('elojegyzes-tabs').find('.tab').removeClass('active');$(this).addClass('active');$('#copies').val(0)
+$('.nem-elojegyzes').removeClass('hidden');
+$('.nem-rendeles').addClass('hidden')
+$('#rendelesi-napok').prop('checked',1).change()
+$$('heti-nezet').addClass('hidden')&quot;]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='elojegyzes-tabs']/div[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Előjegyzés'])[2]/following::div[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Az EESZT modul használatához kérjük ellenőrizze beállításait!'])[1]/following::div[8]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ugrás az aktuális hétre'])[1]/preceding::div[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Szabad időpontok'])[1]/preceding::div[8]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div/div/div[2]</value>
+   </webElementXpaths>
+</WebElementEntity>

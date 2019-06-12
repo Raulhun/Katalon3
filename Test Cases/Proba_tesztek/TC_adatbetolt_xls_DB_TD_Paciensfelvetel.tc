@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_adatbetolt_xls_DB_TD_Paciensfelvetel</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bd850d65-735a-40de-bc81-78387c3fd7c2</testCaseGuid>
+</TestCaseEntity>

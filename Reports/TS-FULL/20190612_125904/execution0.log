@@ -1,0 +1,3760 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-06-12T12:59:10</date>
+  <millis>1560337150970</millis>
+  <sequence>0</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startSuite</method>
+  <thread>1</thread>
+  <message>Start Test Suite : Test Suites/TS-FULL</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="name">TS-FULL</property>
+  <property name="description"></property>
+  <property name="id">Test Suites/TS-FULL</property>
+</record>
+<record>
+  <date>2019-06-12T12:59:10</date>
+  <millis>1560337150999</millis>
+  <sequence>1</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>hostName = User - User-PC</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="hostName">User - User-PC</property>
+</record>
+<record>
+  <date>2019-06-12T12:59:11</date>
+  <millis>1560337151000</millis>
+  <sequence>2</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>os = Windows 7 64bit</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="os">Windows 7 64bit</property>
+</record>
+<record>
+  <date>2019-06-12T12:59:11</date>
+  <millis>1560337151001</millis>
+  <sequence>3</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>hostAddress = 192.168.1.104</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="hostAddress">192.168.1.104</property>
+</record>
+<record>
+  <date>2019-06-12T12:59:11</date>
+  <millis>1560337151003</millis>
+  <sequence>4</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>katalonVersion = 6.1.5.3</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="katalonVersion">6.1.5.3</property>
+</record>
+<record>
+  <date>2019-06-12T12:59:11</date>
+  <millis>1560337151326</millis>
+  <sequence>5</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startTest</method>
+  <thread>1</thread>
+  <message>Start Test Case : Test Cases/MODULOK_nincs_login_belinkelve/Pacienstorzs/TC-MODUL-Pacienstorzs_paciensfelvetel_full_check</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="name">Test Cases/MODULOK_nincs_login_belinkelve/Pacienstorzs/TC-MODUL-Pacienstorzs_paciensfelvetel_full_check</property>
+  <property name="description">Felvesz egy p\u00E1cienset, majd mindent ellen\u0151riz, hogy a felvett adatok bekert\u00FCltek-e mindehova.</property>
+  <property name="id">Test Cases/MODULOK_nincs_login_belinkelve/Pacienstorzs/TC-MODUL-Pacienstorzs_paciensfelvetel_full_check</property>
+  <property name="source">C:\\Users\\User\\Katalon Studio\\RaulWeb1\\Test Cases\\MODULOK_nincs_login_belinkelve\\Pacienstorzs\\TC-MODUL-Pacienstorzs_paciensfelvetel_full_check.tc</property>
+  <property name="tag"></property>
+  <property name="isOptional">false</property>
+</record>
+<record>
+  <date>2019-06-12T12:59:11</date>
+  <millis>1560337151489</millis>
+  <sequence>7</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>(Default) var_nev = Uj_pajti</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:11</date>
+  <millis>1560337151502</millis>
+  <sequence>8</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>(Default) var_azonositoTip = 2</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:11</date>
+  <millis>1560337151512</millis>
+  <sequence>9</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>(Default) var_azonosito = 987654321</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:11</date>
+  <millis>1560337151524</millis>
+  <sequence>10</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>(Default) var_szulDat = 1984-12-01</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:11</date>
+  <millis>1560337151673</millis>
+  <sequence>11</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>(Default) var_szulHely = szulHely</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:11</date>
+  <millis>1560337151687</millis>
+  <sequence>12</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>(Default) var_anyjaNeve = anyjaNeve</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:11</date>
+  <millis>1560337151701</millis>
+  <sequence>13</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>(Default) var_szulNev = szulNev</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:11</date>
+  <millis>1560337151714</millis>
+  <sequence>14</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>(Default) var_allampolg = 109</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:11</date>
+  <millis>1560337151726</millis>
+  <sequence>15</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>(Default) var_tel = tel</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:11</date>
+  <millis>1560337151739</millis>
+  <sequence>16</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>(Default) var_mobile = 302147895</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:11</date>
+  <millis>1560337151754</millis>
+  <sequence>17</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>(Default) var_irsz = irsz</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:11</date>
+  <millis>1560337151767</millis>
+  <sequence>18</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>(Default) var_telep = telep</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:11</date>
+  <millis>1560337151780</millis>
+  <sequence>19</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>(Default) var_cim = cim</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:11</date>
+  <millis>1560337151791</millis>
+  <sequence>20</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>(Default) var_email = email</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:11</date>
+  <millis>1560337151803</millis>
+  <sequence>21</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>(Default) var_szig = szig</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:11</date>
+  <millis>1560337151816</millis>
+  <sequence>22</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>(Default) var_kgyogyKezd = 2010-01-01</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:11</date>
+  <millis>1560337151825</millis>
+  <sequence>23</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>(Default) var_kgyogyVege = 2010-03-10</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:11</date>
+  <millis>1560337151835</millis>
+  <sequence>24</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>(Default) var_kgyogyIgSzam = kgyogyIgSzam</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:11</date>
+  <millis>1560337151846</millis>
+  <sequence>25</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>(Default) var_noinput_azonElofordul = false</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:11</date>
+  <millis>1560337151849</millis>
+  <sequence>26</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start listener action : beforeTestcase</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:11</date>
+  <millis>1560337151886</millis>
+  <sequence>28</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : openBrowser(\&amp;quot;\&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">32</property>
+  <property name="stepIndex">1</property>
+</record>
+<record>
+  <date>2019-06-12T12:59:12</date>
+  <millis>1560337152245</millis>
+  <sequence>30</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Starting &amp;apos;Chrome&amp;apos; driver</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:12</date>
+  <millis>1560337152295</millis>
+  <sequence>31</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Action delay is set to 0 seconds</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:17</date>
+  <millis>1560337157358</millis>
+  <sequence>33</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>sessionId = 6d1e2bd0a57a183626a55921e8ebe318</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="sessionId">6d1e2bd0a57a183626a55921e8ebe318</property>
+</record>
+<record>
+  <date>2019-06-12T12:59:17</date>
+  <millis>1560337157436</millis>
+  <sequence>34</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>browser = Chrome 74.0.3729.169</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="browser">Chrome 74.0.3729.169</property>
+</record>
+<record>
+  <date>2019-06-12T12:59:17</date>
+  <millis>1560337157437</millis>
+  <sequence>35</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>platform = Windows 7</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="platform">Windows 7</property>
+</record>
+<record>
+  <date>2019-06-12T12:59:17</date>
+  <millis>1560337157444</millis>
+  <sequence>36</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>seleniumVersion = 3.7.1</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="seleniumVersion">3.7.1</property>
+</record>
+<record>
+  <date>2019-06-12T12:59:17</date>
+  <millis>1560337157446</millis>
+  <sequence>37</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>proxyInformation = ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="proxyInformation">ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}</property>
+</record>
+<record>
+  <date>2019-06-12T12:59:17</date>
+  <millis>1560337157446</millis>
+  <sequence>38</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Browser is opened with url: &amp;apos;&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:17</date>
+  <millis>1560337157447</millis>
+  <sequence>39</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : openBrowser(\&amp;quot;\&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:17</date>
+  <millis>1560337157447</millis>
+  <sequence>40</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : deleteAllCookies()</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">33</property>
+  <property name="stepIndex">2</property>
+</record>
+<record>
+  <date>2019-06-12T12:59:17</date>
+  <millis>1560337157485</millis>
+  <sequence>41</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Delete all cookies successfully</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:17</date>
+  <millis>1560337157485</millis>
+  <sequence>42</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : deleteAllCookies()</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:17</date>
+  <millis>1560337157486</millis>
+  <sequence>43</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : maximizeWindow()</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">34</property>
+  <property name="stepIndex">3</property>
+</record>
+<record>
+  <date>2019-06-12T12:59:18</date>
+  <millis>1560337158630</millis>
+  <sequence>45</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Current window maximized</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:18</date>
+  <millis>1560337158630</millis>
+  <sequence>46</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : maximizeWindow()</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:18</date>
+  <millis>1560337158630</millis>
+  <sequence>47</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : navigateToUrl(URL)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">35</property>
+  <property name="stepIndex">4</property>
+</record>
+<record>
+  <date>2019-06-12T12:59:21</date>
+  <millis>1560337161045</millis>
+  <sequence>50</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Navigate to &amp;apos;http://dokirex.hu&amp;apos; successfully</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:21</date>
+  <millis>1560337161045</millis>
+  <sequence>51</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : navigateToUrl(URL)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:21</date>
+  <millis>1560337161046</millis>
+  <sequence>52</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : setText(findTestObject(\&amp;quot;Test_Login/input_Elfelejtett jelsz_username\&amp;quot;), username)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">36</property>
+  <property name="stepIndex">5</property>
+</record>
+<record>
+  <date>2019-06-12T12:59:21</date>
+  <millis>1560337161354</millis>
+  <sequence>61</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Text &amp;apos;dokirex@kardi-soft.hu&amp;apos; is set on object &amp;apos;Object Repository/Test_Login/input_Elfelejtett jelsz_username&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:21</date>
+  <millis>1560337161354</millis>
+  <sequence>62</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : setText(findTestObject(\&amp;quot;Test_Login/input_Elfelejtett jelsz_username\&amp;quot;), username)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:21</date>
+  <millis>1560337161354</millis>
+  <sequence>63</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : setText(findTestObject(\&amp;quot;Test_Login/input_Elfelejtett jelsz_password\&amp;quot;), password)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">37</property>
+  <property name="stepIndex">6</property>
+</record>
+<record>
+  <date>2019-06-12T12:59:22</date>
+  <millis>1560337162005</millis>
+  <sequence>72</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Text &amp;apos;702CE&amp;apos; is set on object &amp;apos;Object Repository/Test_Login/input_Elfelejtett jelsz_password&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:22</date>
+  <millis>1560337162006</millis>
+  <sequence>73</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : setText(findTestObject(\&amp;quot;Test_Login/input_Elfelejtett jelsz_password\&amp;quot;), password)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:22</date>
+  <millis>1560337162006</millis>
+  <sequence>74</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : click(findTestObject(\&amp;quot;Test_Login/button_Bejelentkezs\&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">38</property>
+  <property name="stepIndex">7</property>
+</record>
+<record>
+  <date>2019-06-12T12:59:32</date>
+  <millis>1560337172033</millis>
+  <sequence>81</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Object: &amp;apos;Object Repository/Test_Login/button_Bejelentkezs&amp;apos; is clicked on</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:32</date>
+  <millis>1560337172034</millis>
+  <sequence>82</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : click(findTestObject(\&amp;quot;Test_Login/button_Bejelentkezs\&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:32</date>
+  <millis>1560337172035</millis>
+  <sequence>83</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : waitForElementVisible(findTestObject(\&amp;quot;PacienstorzsSearch/input_Keress_search\&amp;quot;), 20)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">39</property>
+  <property name="stepIndex">8</property>
+</record>
+<record>
+  <date>2019-06-12T12:59:32</date>
+  <millis>1560337172166</millis>
+  <sequence>90</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Object &amp;apos;Object Repository/PacienstorzsSearch/input_Keress_search&amp;apos; is visible</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:32</date>
+  <millis>1560337172167</millis>
+  <sequence>92</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : waitForElementVisible(findTestObject(\&amp;quot;PacienstorzsSearch/input_Keress_search\&amp;quot;), 20)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:32</date>
+  <millis>1560337172170</millis>
+  <sequence>93</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End listener action : beforeTestcase</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:33</date>
+  <millis>1560337173209</millis>
+  <sequence>94</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : if (var_azonosito != \&amp;quot;\&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">26</property>
+  <property name="stepIndex">1</property>
+</record>
+<record>
+  <date>2019-06-12T12:59:33</date>
+  <millis>1560337173221</millis>
+  <sequence>95</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : setText(findTestObject(\&amp;quot;PacienstorzsSearch/input_Keress_search\&amp;quot;), var_azonosito)</message>
+  <nestedLevel>2</nestedLevel>
+  <property name="startLine">27</property>
+  <property name="stepIndex">1</property>
+</record>
+<record>
+  <date>2019-06-12T12:59:33</date>
+  <millis>1560337173938</millis>
+  <sequence>104</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Text &amp;apos;987654321&amp;apos; is set on object &amp;apos;Object Repository/PacienstorzsSearch/input_Keress_search&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:33</date>
+  <millis>1560337173939</millis>
+  <sequence>105</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : setText(findTestObject(\&amp;quot;PacienstorzsSearch/input_Keress_search\&amp;quot;), var_azonosito)</message>
+  <nestedLevel>2</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:33</date>
+  <millis>1560337173940</millis>
+  <sequence>106</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : if (var_azonosito != \&amp;quot;\&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:33</date>
+  <millis>1560337173941</millis>
+  <sequence>107</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : waitForElementVisible(findTestObject(\&amp;quot;PacienstorzsSearch/btn_Teljes lista\&amp;quot;), 20)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">35</property>
+  <property name="stepIndex">3</property>
+</record>
+<record>
+  <date>2019-06-12T12:59:35</date>
+  <millis>1560337175253</millis>
+  <sequence>114</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Object &amp;apos;Object Repository/PacienstorzsSearch/btn_Teljes lista&amp;apos; is visible</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:35</date>
+  <millis>1560337175255</millis>
+  <sequence>115</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : waitForElementVisible(findTestObject(\&amp;quot;PacienstorzsSearch/btn_Teljes lista\&amp;quot;), 20)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:35</date>
+  <millis>1560337175257</millis>
+  <sequence>116</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : driver = getWebDriver()</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">37</property>
+  <property name="stepIndex">4</property>
+</record>
+<record>
+  <date>2019-06-12T12:59:35</date>
+  <millis>1560337175295</millis>
+  <sequence>117</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : driver = getWebDriver()</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:35</date>
+  <millis>1560337175296</millis>
+  <sequence>118</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : TotalCollCount = driver.findElements(By.xpath(\&amp;quot;//table[@id=&amp;apos;patients-table&amp;apos;]/tbody/tr[2]/td\&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">40</property>
+  <property name="stepIndex">5</property>
+</record>
+<record>
+  <date>2019-06-12T12:59:35</date>
+  <millis>1560337175406</millis>
+  <sequence>119</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : TotalCollCount = driver.findElements(By.xpath(\&amp;quot;//table[@id=&amp;apos;patients-table&amp;apos;]/tbody/tr[2]/td\&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:35</date>
+  <millis>1560337175407</millis>
+  <sequence>120</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : if (TotalCollCount.size() == 8)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">42</property>
+  <property name="stepIndex">6</property>
+</record>
+<record>
+  <date>2019-06-12T12:59:35</date>
+  <millis>1560337175411</millis>
+  <sequence>121</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : if (TotalCollCount.size() == 8)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:35</date>
+  <millis>1560337175411</millis>
+  <sequence>122</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : else</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">46</property>
+  <property name="stepIndex">7</property>
+</record>
+<record>
+  <date>2019-06-12T12:59:35</date>
+  <millis>1560337175414</millis>
+  <sequence>123</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : var_noinput_azonElofordul = false</message>
+  <nestedLevel>2</nestedLevel>
+  <property name="startLine">47</property>
+  <property name="stepIndex">1</property>
+</record>
+<record>
+  <date>2019-06-12T12:59:35</date>
+  <millis>1560337175417</millis>
+  <sequence>124</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : var_noinput_azonElofordul = false</message>
+  <nestedLevel>2</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:35</date>
+  <millis>1560337175418</millis>
+  <sequence>125</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : markWarning(\&amp;quot;A k\u00F6vetkez\u0151 TAJ: \&amp;quot; + var_azonosito + \&amp;quot; NEM szerepel a t\u00F6rzsben!\&amp;quot;)</message>
+  <nestedLevel>2</nestedLevel>
+  <property name="startLine">49</property>
+  <property name="stepIndex">2</property>
+</record>
+<record>
+  <date>2019-06-12T12:59:35</date>
+  <millis>1560337175442</millis>
+  <sequence>126</sequence>
+  <level>WARNING</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>A k\u00F6vetkez\u0151 TAJ: 987654321 NEM szerepel a t\u00F6rzsben!</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:35</date>
+  <millis>1560337175443</millis>
+  <sequence>127</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : markWarning(\&amp;quot;A k\u00F6vetkez\u0151 TAJ: \&amp;quot; + var_azonosito + \&amp;quot; NEM szerepel a t\u00F6rzsben!\&amp;quot;)</message>
+  <nestedLevel>2</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:35</date>
+  <millis>1560337175444</millis>
+  <sequence>128</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : else</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:35</date>
+  <millis>1560337175445</millis>
+  <sequence>129</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : click(findTestObject(\&amp;quot;PacienstorzsSearch/btnUjPaciens\&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">54</property>
+  <property name="stepIndex">8</property>
+</record>
+<record>
+  <date>2019-06-12T12:59:35</date>
+  <millis>1560337175726</millis>
+  <sequence>136</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Object: &amp;apos;Object Repository/PacienstorzsSearch/btnUjPaciens&amp;apos; is clicked on</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:35</date>
+  <millis>1560337175727</millis>
+  <sequence>137</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : click(findTestObject(\&amp;quot;PacienstorzsSearch/btnUjPaciens\&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:35</date>
+  <millis>1560337175735</millis>
+  <sequence>138</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : delay(3)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">56</property>
+  <property name="stepIndex">9</property>
+</record>
+<record>
+  <date>2019-06-12T12:59:38</date>
+  <millis>1560337178925</millis>
+  <sequence>140</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Delayed 3 second(s)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:38</date>
+  <millis>1560337178927</millis>
+  <sequence>141</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : delay(3)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:38</date>
+  <millis>1560337178928</millis>
+  <sequence>142</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : setText(findTestObject(\&amp;quot;PaciensFelvetelForm/input_Nev\&amp;quot;), var_nev)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">58</property>
+  <property name="stepIndex">10</property>
+</record>
+<record>
+  <date>2019-06-12T12:59:39</date>
+  <millis>1560337179168</millis>
+  <sequence>151</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Text &amp;apos;Uj_pajti&amp;apos; is set on object &amp;apos;Object Repository/PaciensFelvetelForm/input_Nev&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:39</date>
+  <millis>1560337179169</millis>
+  <sequence>152</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : setText(findTestObject(\&amp;quot;PaciensFelvetelForm/input_Nev\&amp;quot;), var_nev)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:39</date>
+  <millis>1560337179169</millis>
+  <sequence>153</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : selectOptionByValue(findTestObject(\&amp;quot;PaciensFelvetelForm/selectAzonTipus\&amp;quot;), \&amp;quot;2\&amp;quot;, false)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">60</property>
+  <property name="stepIndex">11</property>
+</record>
+<record>
+  <date>2019-06-12T12:59:39</date>
+  <millis>1560337179286</millis>
+  <sequence>161</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>All options with value &amp;apos;2&amp;apos; are selected in object &amp;apos;Object Repository/PaciensFelvetelForm/selectAzonTipus&amp;apos; </message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:39</date>
+  <millis>1560337179287</millis>
+  <sequence>162</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : selectOptionByValue(findTestObject(\&amp;quot;PaciensFelvetelForm/selectAzonTipus\&amp;quot;), \&amp;quot;2\&amp;quot;, false)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:39</date>
+  <millis>1560337179287</millis>
+  <sequence>163</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : setText(findTestObject(\&amp;quot;PaciensFelvetelForm/input_Azonosito\&amp;quot;), var_azonosito)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">62</property>
+  <property name="stepIndex">12</property>
+</record>
+<record>
+  <date>2019-06-12T12:59:39</date>
+  <millis>1560337179722</millis>
+  <sequence>172</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Text &amp;apos;987654321&amp;apos; is set on object &amp;apos;Object Repository/PaciensFelvetelForm/input_Azonosito&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:39</date>
+  <millis>1560337179728</millis>
+  <sequence>173</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : setText(findTestObject(\&amp;quot;PaciensFelvetelForm/input_Azonosito\&amp;quot;), var_azonosito)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:39</date>
+  <millis>1560337179729</millis>
+  <sequence>174</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : if (var_noinput_azonElofordul)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">64</property>
+  <property name="stepIndex">13</property>
+</record>
+<record>
+  <date>2019-06-12T12:59:39</date>
+  <millis>1560337179731</millis>
+  <sequence>175</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : if (var_noinput_azonElofordul)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:39</date>
+  <millis>1560337179732</millis>
+  <sequence>176</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : setText(findTestObject(\&amp;quot;PaciensFelvetelForm/input_SzuletesiDatum\&amp;quot;), var_szulDat)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">70</property>
+  <property name="stepIndex">14</property>
+</record>
+<record>
+  <date>2019-06-12T12:59:40</date>
+  <millis>1560337180411</millis>
+  <sequence>185</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Text &amp;apos;1984-12-01&amp;apos; is set on object &amp;apos;Object Repository/PaciensFelvetelForm/input_SzuletesiDatum&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:40</date>
+  <millis>1560337180413</millis>
+  <sequence>186</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : setText(findTestObject(\&amp;quot;PaciensFelvetelForm/input_SzuletesiDatum\&amp;quot;), var_szulDat)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:40</date>
+  <millis>1560337180414</millis>
+  <sequence>187</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : sendKeys(findTestObject(\&amp;quot;PaciensFelvetelForm/input_SzuletesiDatum\&amp;quot;), Keys.chord(TAB))</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">72</property>
+  <property name="stepIndex">15</property>
+</record>
+<record>
+  <date>2019-06-12T12:59:40</date>
+  <millis>1560337180495</millis>
+  <sequence>193</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Keys &amp;apos;TAB + &amp;apos; sent to object: &amp;apos;Object Repository/PaciensFelvetelForm/input_SzuletesiDatum&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:40</date>
+  <millis>1560337180496</millis>
+  <sequence>194</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : sendKeys(findTestObject(\&amp;quot;PaciensFelvetelForm/input_SzuletesiDatum\&amp;quot;), Keys.chord(TAB))</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:40</date>
+  <millis>1560337180497</millis>
+  <sequence>195</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : setText(findTestObject(\&amp;quot;PaciensFelvetelForm/input_SzuletesiHely\&amp;quot;), var_szulHely)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">74</property>
+  <property name="stepIndex">16</property>
+</record>
+<record>
+  <date>2019-06-12T12:59:40</date>
+  <millis>1560337180819</millis>
+  <sequence>204</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Text &amp;apos;szulHely&amp;apos; is set on object &amp;apos;Object Repository/PaciensFelvetelForm/input_SzuletesiHely&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:40</date>
+  <millis>1560337180819</millis>
+  <sequence>205</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : setText(findTestObject(\&amp;quot;PaciensFelvetelForm/input_SzuletesiHely\&amp;quot;), var_szulHely)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:40</date>
+  <millis>1560337180820</millis>
+  <sequence>206</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : setText(findTestObject(\&amp;quot;PaciensFelvetelForm/input_AnyjaNeve\&amp;quot;), var_anyjaNeve)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">76</property>
+  <property name="stepIndex">17</property>
+</record>
+<record>
+  <date>2019-06-12T12:59:41</date>
+  <millis>1560337181056</millis>
+  <sequence>215</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Text &amp;apos;anyjaNeve&amp;apos; is set on object &amp;apos;Object Repository/PaciensFelvetelForm/input_AnyjaNeve&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:41</date>
+  <millis>1560337181059</millis>
+  <sequence>216</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : setText(findTestObject(\&amp;quot;PaciensFelvetelForm/input_AnyjaNeve\&amp;quot;), var_anyjaNeve)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:41</date>
+  <millis>1560337181060</millis>
+  <sequence>217</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : setText(findTestObject(\&amp;quot;PaciensFelvetelForm/input_SzuletesiNev\&amp;quot;), var_szulNev)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">78</property>
+  <property name="stepIndex">18</property>
+</record>
+<record>
+  <date>2019-06-12T12:59:41</date>
+  <millis>1560337181328</millis>
+  <sequence>226</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Text &amp;apos;szulNev&amp;apos; is set on object &amp;apos;Object Repository/PaciensFelvetelForm/input_SzuletesiNev&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:41</date>
+  <millis>1560337181330</millis>
+  <sequence>227</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : setText(findTestObject(\&amp;quot;PaciensFelvetelForm/input_SzuletesiNev\&amp;quot;), var_szulNev)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:41</date>
+  <millis>1560337181330</millis>
+  <sequence>228</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : selectOptionByValue(findTestObject(\&amp;quot;PaciensFelvetelForm/select_Allampolg\&amp;quot;), var_allampolg, false)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">80</property>
+  <property name="stepIndex">19</property>
+</record>
+<record>
+  <date>2019-06-12T12:59:41</date>
+  <millis>1560337181534</millis>
+  <sequence>236</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>All options with value &amp;apos;109&amp;apos; are selected in object &amp;apos;Object Repository/PaciensFelvetelForm/select_Allampolg&amp;apos; </message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:41</date>
+  <millis>1560337181535</millis>
+  <sequence>237</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : selectOptionByValue(findTestObject(\&amp;quot;PaciensFelvetelForm/select_Allampolg\&amp;quot;), var_allampolg, false)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:41</date>
+  <millis>1560337181535</millis>
+  <sequence>238</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : setText(findTestObject(\&amp;quot;PaciensFelvetelForm/input_Telefonszam\&amp;quot;), var_tel)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">82</property>
+  <property name="stepIndex">20</property>
+</record>
+<record>
+  <date>2019-06-12T12:59:41</date>
+  <millis>1560337181749</millis>
+  <sequence>247</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Text &amp;apos;tel&amp;apos; is set on object &amp;apos;Object Repository/PaciensFelvetelForm/input_Telefonszam&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:41</date>
+  <millis>1560337181754</millis>
+  <sequence>248</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : setText(findTestObject(\&amp;quot;PaciensFelvetelForm/input_Telefonszam\&amp;quot;), var_tel)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:41</date>
+  <millis>1560337181754</millis>
+  <sequence>249</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : mobileSzamAtalkitott = toString().substring(0, 2) + \&amp;quot;/\&amp;quot; + toString().substring(2, 5) + \&amp;quot;-\&amp;quot; + toString().substring(5, 9)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">84</property>
+  <property name="stepIndex">21</property>
+</record>
+<record>
+  <date>2019-06-12T12:59:41</date>
+  <millis>1560337181756</millis>
+  <sequence>250</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : mobileSzamAtalkitott = toString().substring(0, 2) + \&amp;quot;/\&amp;quot; + toString().substring(2, 5) + \&amp;quot;-\&amp;quot; + toString().substring(5, 9)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:41</date>
+  <millis>1560337181757</millis>
+  <sequence>251</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : setText(findTestObject(\&amp;quot;PaciensFelvetelForm/input_Mobiltelefon\&amp;quot;), mobileSzamAtalkitott)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">87</property>
+  <property name="stepIndex">22</property>
+</record>
+<record>
+  <date>2019-06-12T12:59:42</date>
+  <millis>1560337182285</millis>
+  <sequence>260</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Text &amp;apos;30/214-7895&amp;apos; is set on object &amp;apos;Object Repository/PaciensFelvetelForm/input_Mobiltelefon&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:42</date>
+  <millis>1560337182286</millis>
+  <sequence>261</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : setText(findTestObject(\&amp;quot;PaciensFelvetelForm/input_Mobiltelefon\&amp;quot;), mobileSzamAtalkitott)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:42</date>
+  <millis>1560337182287</millis>
+  <sequence>262</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : sendKeys(findTestObject(\&amp;quot;PaciensFelvetelForm/input_Mobiltelefon\&amp;quot;), Keys.chord(TAB))</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">89</property>
+  <property name="stepIndex">23</property>
+</record>
+<record>
+  <date>2019-06-12T12:59:42</date>
+  <millis>1560337182338</millis>
+  <sequence>268</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Keys &amp;apos;TAB + &amp;apos; sent to object: &amp;apos;Object Repository/PaciensFelvetelForm/input_Mobiltelefon&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:42</date>
+  <millis>1560337182338</millis>
+  <sequence>269</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : sendKeys(findTestObject(\&amp;quot;PaciensFelvetelForm/input_Mobiltelefon\&amp;quot;), Keys.chord(TAB))</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:42</date>
+  <millis>1560337182339</millis>
+  <sequence>270</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : setText(findTestObject(\&amp;quot;PaciensFelvetelForm/input_Iranyitoszam\&amp;quot;), var_irsz)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">91</property>
+  <property name="stepIndex">24</property>
+</record>
+<record>
+  <date>2019-06-12T12:59:42</date>
+  <millis>1560337182706</millis>
+  <sequence>279</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Text &amp;apos;irsz&amp;apos; is set on object &amp;apos;Object Repository/PaciensFelvetelForm/input_Iranyitoszam&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:42</date>
+  <millis>1560337182707</millis>
+  <sequence>280</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : setText(findTestObject(\&amp;quot;PaciensFelvetelForm/input_Iranyitoszam\&amp;quot;), var_irsz)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:42</date>
+  <millis>1560337182707</millis>
+  <sequence>281</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : setText(findTestObject(\&amp;quot;PaciensFelvetelForm/input_Telepules\&amp;quot;), var_telep)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">93</property>
+  <property name="stepIndex">25</property>
+</record>
+<record>
+  <date>2019-06-12T12:59:42</date>
+  <millis>1560337182896</millis>
+  <sequence>290</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Text &amp;apos;telep&amp;apos; is set on object &amp;apos;Object Repository/PaciensFelvetelForm/input_Telepules&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:42</date>
+  <millis>1560337182897</millis>
+  <sequence>291</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : setText(findTestObject(\&amp;quot;PaciensFelvetelForm/input_Telepules\&amp;quot;), var_telep)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:42</date>
+  <millis>1560337182897</millis>
+  <sequence>292</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : setText(findTestObject(\&amp;quot;PaciensFelvetelForm/input_Cim\&amp;quot;), var_cim)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">95</property>
+  <property name="stepIndex">26</property>
+</record>
+<record>
+  <date>2019-06-12T12:59:43</date>
+  <millis>1560337183152</millis>
+  <sequence>301</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Text &amp;apos;cim&amp;apos; is set on object &amp;apos;Object Repository/PaciensFelvetelForm/input_Cim&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:43</date>
+  <millis>1560337183155</millis>
+  <sequence>302</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : setText(findTestObject(\&amp;quot;PaciensFelvetelForm/input_Cim\&amp;quot;), var_cim)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:43</date>
+  <millis>1560337183156</millis>
+  <sequence>303</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : setText(findTestObject(\&amp;quot;PaciensFelvetelForm/input_Email\&amp;quot;), var_email)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">97</property>
+  <property name="stepIndex">27</property>
+</record>
+<record>
+  <date>2019-06-12T12:59:43</date>
+  <millis>1560337183536</millis>
+  <sequence>312</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Text &amp;apos;email&amp;apos; is set on object &amp;apos;Object Repository/PaciensFelvetelForm/input_Email&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:43</date>
+  <millis>1560337183540</millis>
+  <sequence>313</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : setText(findTestObject(\&amp;quot;PaciensFelvetelForm/input_Email\&amp;quot;), var_email)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:43</date>
+  <millis>1560337183541</millis>
+  <sequence>314</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : setText(findTestObject(\&amp;quot;PaciensFelvetelForm/input_SzemlyiIgSzama\&amp;quot;), var_szig)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">99</property>
+  <property name="stepIndex">28</property>
+</record>
+<record>
+  <date>2019-06-12T12:59:43</date>
+  <millis>1560337183777</millis>
+  <sequence>323</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Text &amp;apos;szig&amp;apos; is set on object &amp;apos;Object Repository/PaciensFelvetelForm/input_SzemlyiIgSzama&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:43</date>
+  <millis>1560337183778</millis>
+  <sequence>324</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : setText(findTestObject(\&amp;quot;PaciensFelvetelForm/input_SzemlyiIgSzama\&amp;quot;), var_szig)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:43</date>
+  <millis>1560337183779</millis>
+  <sequence>325</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : setText(findTestObject(\&amp;quot;PaciensFelvetelForm/input_KozgyogyKezdete\&amp;quot;), var_kgyogyKezd)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">101</property>
+  <property name="stepIndex">29</property>
+</record>
+<record>
+  <date>2019-06-12T12:59:44</date>
+  <millis>1560337184271</millis>
+  <sequence>334</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Text &amp;apos;2010-01-01&amp;apos; is set on object &amp;apos;Object Repository/PaciensFelvetelForm/input_KozgyogyKezdete&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:44</date>
+  <millis>1560337184273</millis>
+  <sequence>335</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : setText(findTestObject(\&amp;quot;PaciensFelvetelForm/input_KozgyogyKezdete\&amp;quot;), var_kgyogyKezd)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:44</date>
+  <millis>1560337184274</millis>
+  <sequence>336</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : setText(findTestObject(\&amp;quot;PaciensFelvetelForm/input_KozgyogyVege\&amp;quot;), var_kgyogyVege)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">103</property>
+  <property name="stepIndex">30</property>
+</record>
+<record>
+  <date>2019-06-12T12:59:44</date>
+  <millis>1560337184586</millis>
+  <sequence>345</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Text &amp;apos;2010-03-10&amp;apos; is set on object &amp;apos;Object Repository/PaciensFelvetelForm/input_KozgyogyVege&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:44</date>
+  <millis>1560337184588</millis>
+  <sequence>346</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : setText(findTestObject(\&amp;quot;PaciensFelvetelForm/input_KozgyogyVege\&amp;quot;), var_kgyogyVege)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:44</date>
+  <millis>1560337184589</millis>
+  <sequence>347</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : sendKeys(findTestObject(\&amp;quot;PaciensFelvetelForm/input_KozgyogyVege\&amp;quot;), Keys.chord(TAB))</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">105</property>
+  <property name="stepIndex">31</property>
+</record>
+<record>
+  <date>2019-06-12T12:59:44</date>
+  <millis>1560337184691</millis>
+  <sequence>353</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Keys &amp;apos;TAB + &amp;apos; sent to object: &amp;apos;Object Repository/PaciensFelvetelForm/input_KozgyogyVege&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:44</date>
+  <millis>1560337184692</millis>
+  <sequence>354</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : sendKeys(findTestObject(\&amp;quot;PaciensFelvetelForm/input_KozgyogyVege\&amp;quot;), Keys.chord(TAB))</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:44</date>
+  <millis>1560337184692</millis>
+  <sequence>355</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : setText(findTestObject(\&amp;quot;PaciensFelvetelForm/input_KozgyogyIgSzama\&amp;quot;), var_kgyogyIgSzam)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">107</property>
+  <property name="stepIndex">32</property>
+</record>
+<record>
+  <date>2019-06-12T12:59:45</date>
+  <millis>1560337185093</millis>
+  <sequence>364</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Text &amp;apos;kgyogyIgSzam&amp;apos; is set on object &amp;apos;Object Repository/PaciensFelvetelForm/input_KozgyogyIgSzama&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:45</date>
+  <millis>1560337185093</millis>
+  <sequence>365</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : setText(findTestObject(\&amp;quot;PaciensFelvetelForm/input_KozgyogyIgSzama\&amp;quot;), var_kgyogyIgSzam)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:45</date>
+  <millis>1560337185093</millis>
+  <sequence>366</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : click(findTestObject(\&amp;quot;PaciensFelvetelForm/btnMentes\&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">109</property>
+  <property name="stepIndex">33</property>
+</record>
+<record>
+  <date>2019-06-12T12:59:45</date>
+  <millis>1560337185253</millis>
+  <sequence>373</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Object: &amp;apos;Object Repository/PaciensFelvetelForm/btnMentes&amp;apos; is clicked on</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:45</date>
+  <millis>1560337185254</millis>
+  <sequence>374</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : click(findTestObject(\&amp;quot;PaciensFelvetelForm/btnMentes\&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:45</date>
+  <millis>1560337185254</millis>
+  <sequence>375</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : waitForElementPresent(findTestObject(\&amp;quot;PacienstorzsSearch/input_Keress_search\&amp;quot;), 20)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">111</property>
+  <property name="stepIndex">34</property>
+</record>
+<record>
+  <date>2019-06-12T12:59:50</date>
+  <millis>1560337190138</millis>
+  <sequence>381</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Object &amp;apos;Object Repository/PacienstorzsSearch/input_Keress_search&amp;apos; is present</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:50</date>
+  <millis>1560337190139</millis>
+  <sequence>382</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : waitForElementPresent(findTestObject(\&amp;quot;PacienstorzsSearch/input_Keress_search\&amp;quot;), 20)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:50</date>
+  <millis>1560337190140</millis>
+  <sequence>383</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : markWarning(\&amp;quot;-&amp;gt; 1. eset Sikeres ment\u00E9s \u00FCzenet j\u00F6n-e?\&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">115</property>
+  <property name="stepIndex">35</property>
+</record>
+<record>
+  <date>2019-06-12T12:59:50</date>
+  <millis>1560337190141</millis>
+  <sequence>384</sequence>
+  <level>WARNING</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>-&amp;gt; 1. eset Sikeres ment\u00E9s \u00FCzenet j\u00F6n-e?</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:50</date>
+  <millis>1560337190141</millis>
+  <sequence>385</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : markWarning(\&amp;quot;-&amp;gt; 1. eset Sikeres ment\u00E9s \u00FCzenet j\u00F6n-e?\&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:50</date>
+  <millis>1560337190142</millis>
+  <sequence>386</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : boolMsg = waitForElementVisible(findTestObject(\&amp;quot;Alert_Messages/div_Sikeres ments\&amp;quot;), 8, OPTIONAL)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">117</property>
+  <property name="stepIndex">36</property>
+</record>
+<record>
+  <date>2019-06-12T12:59:50</date>
+  <millis>1560337190246</millis>
+  <sequence>393</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Object &amp;apos;Object Repository/Alert_Messages/div_Sikeres ments&amp;apos; is visible</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:50</date>
+  <millis>1560337190246</millis>
+  <sequence>394</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : boolMsg = waitForElementVisible(findTestObject(\&amp;quot;Alert_Messages/div_Sikeres ments\&amp;quot;), 8, OPTIONAL)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:50</date>
+  <millis>1560337190247</millis>
+  <sequence>395</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : errorMess = getText(findTestObject(\&amp;quot;Alert_Messages/div_Sikeres ments\&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">119</property>
+  <property name="stepIndex">37</property>
+</record>
+<record>
+  <date>2019-06-12T12:59:50</date>
+  <millis>1560337190348</millis>
+  <sequence>402</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Text of object &amp;apos;Object Repository/Alert_Messages/div_Sikeres ments&amp;apos; is: &amp;apos;Sikeres ment\u00E9s!&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:50</date>
+  <millis>1560337190349</millis>
+  <sequence>403</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : errorMess = getText(findTestObject(\&amp;quot;Alert_Messages/div_Sikeres ments\&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:50</date>
+  <millis>1560337190349</millis>
+  <sequence>404</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : seq = \&amp;quot;Sikeres ment\u00E9s\&amp;quot;</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">121</property>
+  <property name="stepIndex">38</property>
+</record>
+<record>
+  <date>2019-06-12T12:59:50</date>
+  <millis>1560337190350</millis>
+  <sequence>405</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : seq = \&amp;quot;Sikeres ment\u00E9s\&amp;quot;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:50</date>
+  <millis>1560337190351</millis>
+  <sequence>406</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : if (verifyEqual(errorMess.contains(seq), true))</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">123</property>
+  <property name="stepIndex">39</property>
+</record>
+<record>
+  <date>2019-06-12T12:59:50</date>
+  <millis>1560337190384</millis>
+  <sequence>408</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Actual object &amp;apos;true&amp;apos; and expected object &amp;apos;true&amp;apos; are equal</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:50</date>
+  <millis>1560337190387</millis>
+  <sequence>409</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : markWarning(\&amp;quot;J\u00F6n a \&amp;quot; + errorMess + \&amp;quot; alert\&amp;quot;)</message>
+  <nestedLevel>2</nestedLevel>
+  <property name="startLine">124</property>
+  <property name="stepIndex">1</property>
+</record>
+<record>
+  <date>2019-06-12T12:59:50</date>
+  <millis>1560337190389</millis>
+  <sequence>410</sequence>
+  <level>WARNING</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>J\u00F6n a Sikeres ment\u00E9s! alert</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:50</date>
+  <millis>1560337190391</millis>
+  <sequence>411</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : markWarning(\&amp;quot;J\u00F6n a \&amp;quot; + errorMess + \&amp;quot; alert\&amp;quot;)</message>
+  <nestedLevel>2</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:50</date>
+  <millis>1560337190392</millis>
+  <sequence>412</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : if (verifyEqual(errorMess.contains(seq), true))</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:50</date>
+  <millis>1560337190393</millis>
+  <sequence>413</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : markWarning(\&amp;quot;-&amp;gt; 2. eset Automatikusan kiv\u00E1last\u00E1sra ker\u00FCl-e az \u00FAjonann felvett p\u00E1ciens?\&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">130</property>
+  <property name="stepIndex">41</property>
+</record>
+<record>
+  <date>2019-06-12T12:59:50</date>
+  <millis>1560337190394</millis>
+  <sequence>414</sequence>
+  <level>WARNING</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>-&amp;gt; 2. eset Automatikusan kiv\u00E1last\u00E1sra ker\u00FCl-e az \u00FAjonann felvett p\u00E1ciens?</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:50</date>
+  <millis>1560337190394</millis>
+  <sequence>415</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : markWarning(\&amp;quot;-&amp;gt; 2. eset Automatikusan kiv\u00E1last\u00E1sra ker\u00FCl-e az \u00FAjonann felvett p\u00E1ciens?\&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:50</date>
+  <millis>1560337190395</millis>
+  <sequence>416</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : headerPatient = xpath(\&amp;quot;//div[@class=&amp;apos;inline patient&amp;apos;]/span\&amp;quot;)).getText()</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">132</property>
+  <property name="stepIndex">42</property>
+</record>
+<record>
+  <date>2019-06-12T12:59:50</date>
+  <millis>1560337190543</millis>
+  <sequence>417</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : headerPatient = xpath(\&amp;quot;//div[@class=&amp;apos;inline patient&amp;apos;]/span\&amp;quot;)).getText()</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:50</date>
+  <millis>1560337190544</millis>
+  <sequence>418</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : markWarning(\&amp;quot;A headerPatient erteke: \&amp;quot; + headerPatient)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">134</property>
+  <property name="stepIndex">43</property>
+</record>
+<record>
+  <date>2019-06-12T12:59:50</date>
+  <millis>1560337190544</millis>
+  <sequence>419</sequence>
+  <level>WARNING</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>A headerPatient erteke: Uj_pajti, 1984.12.01 (34 \u00E9ves)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:50</date>
+  <millis>1560337190545</millis>
+  <sequence>420</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : markWarning(\&amp;quot;A headerPatient erteke: \&amp;quot; + headerPatient)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:50</date>
+  <millis>1560337190545</millis>
+  <sequence>421</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : seqNev = var_nev</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">136</property>
+  <property name="stepIndex">44</property>
+</record>
+<record>
+  <date>2019-06-12T12:59:50</date>
+  <millis>1560337190547</millis>
+  <sequence>422</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : seqNev = var_nev</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:50</date>
+  <millis>1560337190547</millis>
+  <sequence>423</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : if (verifyEqual(headerPatient.contains(seqNev), true))</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">138</property>
+  <property name="stepIndex">45</property>
+</record>
+<record>
+  <date>2019-06-12T12:59:50</date>
+  <millis>1560337190554</millis>
+  <sequence>425</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Actual object &amp;apos;true&amp;apos; and expected object &amp;apos;true&amp;apos; are equal</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:50</date>
+  <millis>1560337190556</millis>
+  <sequence>426</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : markWarning(\&amp;quot;A p\u00E1ciens automatikusan kiv\u00E1laszt\u00E1sra ker\u00FClt a header-ben.\&amp;quot;)</message>
+  <nestedLevel>2</nestedLevel>
+  <property name="startLine">139</property>
+  <property name="stepIndex">1</property>
+</record>
+<record>
+  <date>2019-06-12T12:59:50</date>
+  <millis>1560337190557</millis>
+  <sequence>427</sequence>
+  <level>WARNING</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>A p\u00E1ciens automatikusan kiv\u00E1laszt\u00E1sra ker\u00FClt a header-ben.</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:50</date>
+  <millis>1560337190558</millis>
+  <sequence>428</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : markWarning(\&amp;quot;A p\u00E1ciens automatikusan kiv\u00E1laszt\u00E1sra ker\u00FClt a header-ben.\&amp;quot;)</message>
+  <nestedLevel>2</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:50</date>
+  <millis>1560337190559</millis>
+  <sequence>429</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : if (verifyEqual(headerPatient.contains(seqNev), true))</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:50</date>
+  <millis>1560337190559</millis>
+  <sequence>430</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : markWarning(\&amp;quot;-&amp;gt; 3. eset A Cookie-ban a j\u00F3 p\u00E1ciens ID szerepel\&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">143</property>
+  <property name="stepIndex">46</property>
+</record>
+<record>
+  <date>2019-06-12T12:59:50</date>
+  <millis>1560337190560</millis>
+  <sequence>431</sequence>
+  <level>WARNING</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>-&amp;gt; 3. eset A Cookie-ban a j\u00F3 p\u00E1ciens ID szerepel</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:50</date>
+  <millis>1560337190562</millis>
+  <sequence>432</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : markWarning(\&amp;quot;-&amp;gt; 3. eset A Cookie-ban a j\u00F3 p\u00E1ciens ID szerepel\&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:50</date>
+  <millis>1560337190563</millis>
+  <sequence>433</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : CookieUserHash = getCookieNamed(\&amp;quot;userhash\&amp;quot;).getValue()</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">145</property>
+  <property name="stepIndex">47</property>
+</record>
+<record>
+  <date>2019-06-12T12:59:50</date>
+  <millis>1560337190723</millis>
+  <sequence>434</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : CookieUserHash = getCookieNamed(\&amp;quot;userhash\&amp;quot;).getValue()</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:50</date>
+  <millis>1560337190723</millis>
+  <sequence>435</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : patientKey = CookieUserHash + \&amp;quot;-patient\&amp;quot;</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">147</property>
+  <property name="stepIndex">48</property>
+</record>
+<record>
+  <date>2019-06-12T12:59:50</date>
+  <millis>1560337190724</millis>
+  <sequence>436</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : patientKey = CookieUserHash + \&amp;quot;-patient\&amp;quot;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:50</date>
+  <millis>1560337190724</millis>
+  <sequence>437</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : patientID = getCookieNamed(patientKey).getValue()</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">149</property>
+  <property name="stepIndex">49</property>
+</record>
+<record>
+  <date>2019-06-12T12:59:50</date>
+  <millis>1560337190757</millis>
+  <sequence>438</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : patientID = getCookieNamed(patientKey).getValue()</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:50</date>
+  <millis>1560337190757</millis>
+  <sequence>439</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : markWarning(\&amp;quot;A p\u00E1ciens ID a Cookie-ban: \&amp;quot; + patientID)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">151</property>
+  <property name="stepIndex">50</property>
+</record>
+<record>
+  <date>2019-06-12T12:59:50</date>
+  <millis>1560337190758</millis>
+  <sequence>440</sequence>
+  <level>WARNING</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>A p\u00E1ciens ID a Cookie-ban: 129</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:50</date>
+  <millis>1560337190758</millis>
+  <sequence>441</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : markWarning(\&amp;quot;A p\u00E1ciens ID a Cookie-ban: \&amp;quot; + patientID)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:50</date>
+  <millis>1560337190758</millis>
+  <sequence>442</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : setText(findTestObject(\&amp;quot;PacienstorzsSearch/input_Keress_search\&amp;quot;), var_azonosito)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">153</property>
+  <property name="stepIndex">51</property>
+</record>
+<record>
+  <date>2019-06-12T12:59:51</date>
+  <millis>1560337191125</millis>
+  <sequence>451</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Text &amp;apos;987654321&amp;apos; is set on object &amp;apos;Object Repository/PacienstorzsSearch/input_Keress_search&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:51</date>
+  <millis>1560337191126</millis>
+  <sequence>452</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : setText(findTestObject(\&amp;quot;PacienstorzsSearch/input_Keress_search\&amp;quot;), var_azonosito)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:51</date>
+  <millis>1560337191126</millis>
+  <sequence>453</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : waitForElementVisible(findTestObject(\&amp;quot;PacienstorzsSearch/btn_Teljes lista\&amp;quot;), 20)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">155</property>
+  <property name="stepIndex">52</property>
+</record>
+<record>
+  <date>2019-06-12T12:59:52</date>
+  <millis>1560337192227</millis>
+  <sequence>460</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Object &amp;apos;Object Repository/PacienstorzsSearch/btn_Teljes lista&amp;apos; is visible</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:52</date>
+  <millis>1560337192227</millis>
+  <sequence>461</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : waitForElementVisible(findTestObject(\&amp;quot;PacienstorzsSearch/btn_Teljes lista\&amp;quot;), 20)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:52</date>
+  <millis>1560337192228</millis>
+  <sequence>462</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : TotalRowCount = driver.findElements(By.xpath(\&amp;quot;//table[@id=&amp;apos;patients-table&amp;apos;]/tbody/tr\&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">157</property>
+  <property name="stepIndex">53</property>
+</record>
+<record>
+  <date>2019-06-12T12:59:52</date>
+  <millis>1560337192264</millis>
+  <sequence>463</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : TotalRowCount = driver.findElements(By.xpath(\&amp;quot;//table[@id=&amp;apos;patients-table&amp;apos;]/tbody/tr\&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:52</date>
+  <millis>1560337192265</millis>
+  <sequence>464</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : countResults = TotalRowCount.size() - 2</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">159</property>
+  <property name="stepIndex">54</property>
+</record>
+<record>
+  <date>2019-06-12T12:59:52</date>
+  <millis>1560337192270</millis>
+  <sequence>465</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : countResults = TotalRowCount.size() - 2</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:52</date>
+  <millis>1560337192270</millis>
+  <sequence>466</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : markWarning(\&amp;quot;A tal\u00E1latok sz\u00E1ma: \&amp;quot; + countResults)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">161</property>
+  <property name="stepIndex">55</property>
+</record>
+<record>
+  <date>2019-06-12T12:59:52</date>
+  <millis>1560337192271</millis>
+  <sequence>467</sequence>
+  <level>WARNING</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>A tal\u00E1latok sz\u00E1ma: 1</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:52</date>
+  <millis>1560337192271</millis>
+  <sequence>468</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : markWarning(\&amp;quot;A tal\u00E1latok sz\u00E1ma: \&amp;quot; + countResults)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:52</date>
+  <millis>1560337192272</millis>
+  <sequence>469</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : value = \&amp;quot;\&amp;quot;</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">163</property>
+  <property name="stepIndex">56</property>
+</record>
+<record>
+  <date>2019-06-12T12:59:52</date>
+  <millis>1560337192272</millis>
+  <sequence>470</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : value = \&amp;quot;\&amp;quot;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:52</date>
+  <millis>1560337192273</millis>
+  <sequence>471</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : j = 0</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">165</property>
+  <property name="stepIndex">57</property>
+</record>
+<record>
+  <date>2019-06-12T12:59:52</date>
+  <millis>1560337192273</millis>
+  <sequence>472</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : j = 0</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:52</date>
+  <millis>1560337192274</millis>
+  <sequence>473</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : for (org.openqa.selenium.WebElement row : TotalRowCount)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">167</property>
+  <property name="stepIndex">58</property>
+</record>
+<record>
+  <date>2019-06-12T12:59:52</date>
+  <millis>1560337192275</millis>
+  <sequence>474</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : value = row.getAttribute(\&amp;quot;data-value\&amp;quot;)</message>
+  <nestedLevel>2</nestedLevel>
+  <property name="startLine">168</property>
+  <property name="stepIndex">1</property>
+</record>
+<record>
+  <date>2019-06-12T12:59:52</date>
+  <millis>1560337192288</millis>
+  <sequence>475</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : value = row.getAttribute(\&amp;quot;data-value\&amp;quot;)</message>
+  <nestedLevel>2</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:52</date>
+  <millis>1560337192288</millis>
+  <sequence>476</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : if (value == patientID)</message>
+  <nestedLevel>2</nestedLevel>
+  <property name="startLine">170</property>
+  <property name="stepIndex">2</property>
+</record>
+<record>
+  <date>2019-06-12T12:59:52</date>
+  <millis>1560337192289</millis>
+  <sequence>477</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : if (value == patientID)</message>
+  <nestedLevel>2</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:52</date>
+  <millis>1560337192290</millis>
+  <sequence>478</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : value = row.getAttribute(\&amp;quot;data-value\&amp;quot;)</message>
+  <nestedLevel>2</nestedLevel>
+  <property name="startLine">168</property>
+  <property name="stepIndex">1</property>
+</record>
+<record>
+  <date>2019-06-12T12:59:52</date>
+  <millis>1560337192302</millis>
+  <sequence>479</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : value = row.getAttribute(\&amp;quot;data-value\&amp;quot;)</message>
+  <nestedLevel>2</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:52</date>
+  <millis>1560337192302</millis>
+  <sequence>480</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : if (value == patientID)</message>
+  <nestedLevel>2</nestedLevel>
+  <property name="startLine">170</property>
+  <property name="stepIndex">2</property>
+</record>
+<record>
+  <date>2019-06-12T12:59:52</date>
+  <millis>1560337192303</millis>
+  <sequence>481</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : markWarning(\&amp;quot;A/Az \&amp;quot; + patientID + \&amp;quot; ugyanaz a Cookie-ban mint a kiv\u00E1lasztott p\u00E1ciensn\u00E9l!\&amp;quot;)</message>
+  <nestedLevel>3</nestedLevel>
+  <property name="startLine">171</property>
+  <property name="stepIndex">1</property>
+</record>
+<record>
+  <date>2019-06-12T12:59:52</date>
+  <millis>1560337192304</millis>
+  <sequence>482</sequence>
+  <level>WARNING</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>A/Az 129 ugyanaz a Cookie-ban mint a kiv\u00E1lasztott p\u00E1ciensn\u00E9l!</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:52</date>
+  <millis>1560337192304</millis>
+  <sequence>483</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : markWarning(\&amp;quot;A/Az \&amp;quot; + patientID + \&amp;quot; ugyanaz a Cookie-ban mint a kiv\u00E1lasztott p\u00E1ciensn\u00E9l!\&amp;quot;)</message>
+  <nestedLevel>3</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:52</date>
+  <millis>1560337192305</millis>
+  <sequence>484</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : if (value == patientID)</message>
+  <nestedLevel>2</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:52</date>
+  <millis>1560337192305</millis>
+  <sequence>485</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : value = row.getAttribute(\&amp;quot;data-value\&amp;quot;)</message>
+  <nestedLevel>2</nestedLevel>
+  <property name="startLine">168</property>
+  <property name="stepIndex">1</property>
+</record>
+<record>
+  <date>2019-06-12T12:59:52</date>
+  <millis>1560337192317</millis>
+  <sequence>486</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : value = row.getAttribute(\&amp;quot;data-value\&amp;quot;)</message>
+  <nestedLevel>2</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:52</date>
+  <millis>1560337192317</millis>
+  <sequence>487</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : if (value == patientID)</message>
+  <nestedLevel>2</nestedLevel>
+  <property name="startLine">170</property>
+  <property name="stepIndex">2</property>
+</record>
+<record>
+  <date>2019-06-12T12:59:52</date>
+  <millis>1560337192318</millis>
+  <sequence>488</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : if (value == patientID)</message>
+  <nestedLevel>2</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:52</date>
+  <millis>1560337192318</millis>
+  <sequence>489</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : for (org.openqa.selenium.WebElement row : TotalRowCount)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:52</date>
+  <millis>1560337192318</millis>
+  <sequence>490</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : markWarning(\&amp;quot;-&amp;gt; 4. eset A felvett adatok ment\u00E9se t\u00E9nylegesen megt\u00F6rt\u00E9nt\&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">199</property>
+  <property name="stepIndex">59</property>
+</record>
+<record>
+  <date>2019-06-12T12:59:52</date>
+  <millis>1560337192319</millis>
+  <sequence>491</sequence>
+  <level>WARNING</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>-&amp;gt; 4. eset A felvett adatok ment\u00E9se t\u00E9nylegesen megt\u00F6rt\u00E9nt</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:52</date>
+  <millis>1560337192319</millis>
+  <sequence>492</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : markWarning(\&amp;quot;-&amp;gt; 4. eset A felvett adatok ment\u00E9se t\u00E9nylegesen megt\u00F6rt\u00E9nt\&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:52</date>
+  <millis>1560337192319</millis>
+  <sequence>493</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : delay(3)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">201</property>
+  <property name="stepIndex">60</property>
+</record>
+<record>
+  <date>2019-06-12T12:59:55</date>
+  <millis>1560337195322</millis>
+  <sequence>495</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Delayed 3 second(s)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:55</date>
+  <millis>1560337195325</millis>
+  <sequence>496</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : delay(3)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:55</date>
+  <millis>1560337195326</millis>
+  <sequence>497</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : waitForElementClickable(findTestObject(\&amp;quot;PacienstorzsSearch/btn_Pciens szerkesztse\&amp;quot;), 8)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">203</property>
+  <property name="stepIndex">61</property>
+</record>
+<record>
+  <date>2019-06-12T12:59:55</date>
+  <millis>1560337195438</millis>
+  <sequence>504</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Object &amp;apos;Object Repository/PacienstorzsSearch/btn_Pciens szerkesztse&amp;apos; is clickable</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:55</date>
+  <millis>1560337195438</millis>
+  <sequence>505</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : waitForElementClickable(findTestObject(\&amp;quot;PacienstorzsSearch/btn_Pciens szerkesztse\&amp;quot;), 8)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:55</date>
+  <millis>1560337195438</millis>
+  <sequence>506</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : click(findTestObject(\&amp;quot;PacienstorzsSearch/btn_Pciens szerkesztse\&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">205</property>
+  <property name="stepIndex">62</property>
+</record>
+<record>
+  <date>2019-06-12T12:59:55</date>
+  <millis>1560337195633</millis>
+  <sequence>513</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Object: &amp;apos;Object Repository/PacienstorzsSearch/btn_Pciens szerkesztse&amp;apos; is clicked on</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:55</date>
+  <millis>1560337195635</millis>
+  <sequence>514</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : click(findTestObject(\&amp;quot;PacienstorzsSearch/btn_Pciens szerkesztse\&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:55</date>
+  <millis>1560337195635</millis>
+  <sequence>515</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : delay(3)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">207</property>
+  <property name="stepIndex">63</property>
+</record>
+<record>
+  <date>2019-06-12T12:59:58</date>
+  <millis>1560337198639</millis>
+  <sequence>517</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Delayed 3 second(s)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:58</date>
+  <millis>1560337198640</millis>
+  <sequence>518</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : delay(3)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:58</date>
+  <millis>1560337198640</millis>
+  <sequence>519</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : verifyEqual(var_nev, getAttribute(findTestObject(\&amp;quot;PaciensFelvetelForm/input_Nev\&amp;quot;), \&amp;quot;value\&amp;quot;), OPTIONAL)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">209</property>
+  <property name="stepIndex">64</property>
+</record>
+<record>
+  <date>2019-06-12T12:59:58</date>
+  <millis>1560337198694</millis>
+  <sequence>527</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Attribute &amp;apos;value&amp;apos; of object &amp;apos;Object Repository/PaciensFelvetelForm/input_Nev&amp;apos; is: &amp;apos;Uj_pajti&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:58</date>
+  <millis>1560337198697</millis>
+  <sequence>529</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Actual object &amp;apos;Uj_pajti&amp;apos; and expected object &amp;apos;Uj_pajti&amp;apos; are equal</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:58</date>
+  <millis>1560337198698</millis>
+  <sequence>530</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : verifyEqual(var_nev, getAttribute(findTestObject(\&amp;quot;PaciensFelvetelForm/input_Nev\&amp;quot;), \&amp;quot;value\&amp;quot;), OPTIONAL)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:58</date>
+  <millis>1560337198705</millis>
+  <sequence>531</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : verifyEqual(var_azonosito, getAttribute(findTestObject(\&amp;quot;PaciensFelvetelForm/input_Azonosito\&amp;quot;), \&amp;quot;value\&amp;quot;), OPTIONAL)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">211</property>
+  <property name="stepIndex">65</property>
+</record>
+<record>
+  <date>2019-06-12T12:59:58</date>
+  <millis>1560337198736</millis>
+  <sequence>539</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Attribute &amp;apos;value&amp;apos; of object &amp;apos;Object Repository/PaciensFelvetelForm/input_Azonosito&amp;apos; is: &amp;apos;987654321&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:58</date>
+  <millis>1560337198739</millis>
+  <sequence>541</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Actual object &amp;apos;987654321&amp;apos; and expected object &amp;apos;987654321&amp;apos; are equal</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:58</date>
+  <millis>1560337198739</millis>
+  <sequence>542</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : verifyEqual(var_azonosito, getAttribute(findTestObject(\&amp;quot;PaciensFelvetelForm/input_Azonosito\&amp;quot;), \&amp;quot;value\&amp;quot;), OPTIONAL)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:58</date>
+  <millis>1560337198739</millis>
+  <sequence>543</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : verifyEqual(var_szulDat, getAttribute(findTestObject(\&amp;quot;PaciensFelvetelForm/input_SzuletesiDatum\&amp;quot;), \&amp;quot;value\&amp;quot;), OPTIONAL)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">213</property>
+  <property name="stepIndex">66</property>
+</record>
+<record>
+  <date>2019-06-12T12:59:58</date>
+  <millis>1560337198779</millis>
+  <sequence>551</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Attribute &amp;apos;value&amp;apos; of object &amp;apos;Object Repository/PaciensFelvetelForm/input_SzuletesiDatum&amp;apos; is: &amp;apos;1984-12-01&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:58</date>
+  <millis>1560337198781</millis>
+  <sequence>553</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Actual object &amp;apos;1984-12-01&amp;apos; and expected object &amp;apos;1984-12-01&amp;apos; are equal</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:58</date>
+  <millis>1560337198782</millis>
+  <sequence>554</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : verifyEqual(var_szulDat, getAttribute(findTestObject(\&amp;quot;PaciensFelvetelForm/input_SzuletesiDatum\&amp;quot;), \&amp;quot;value\&amp;quot;), OPTIONAL)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:58</date>
+  <millis>1560337198782</millis>
+  <sequence>555</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : verifyEqual(var_szulHely, getAttribute(findTestObject(\&amp;quot;PaciensFelvetelForm/input_SzuletesiHely\&amp;quot;), \&amp;quot;value\&amp;quot;), OPTIONAL)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">216</property>
+  <property name="stepIndex">67</property>
+</record>
+<record>
+  <date>2019-06-12T12:59:58</date>
+  <millis>1560337198811</millis>
+  <sequence>563</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Attribute &amp;apos;value&amp;apos; of object &amp;apos;Object Repository/PaciensFelvetelForm/input_SzuletesiHely&amp;apos; is: &amp;apos;szulHely&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:58</date>
+  <millis>1560337198813</millis>
+  <sequence>565</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Actual object &amp;apos;szulHely&amp;apos; and expected object &amp;apos;szulHely&amp;apos; are equal</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:58</date>
+  <millis>1560337198814</millis>
+  <sequence>566</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : verifyEqual(var_szulHely, getAttribute(findTestObject(\&amp;quot;PaciensFelvetelForm/input_SzuletesiHely\&amp;quot;), \&amp;quot;value\&amp;quot;), OPTIONAL)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:58</date>
+  <millis>1560337198814</millis>
+  <sequence>567</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : verifyEqual(var_szulNev, getAttribute(findTestObject(\&amp;quot;PaciensFelvetelForm/input_SzuletesiNev\&amp;quot;), \&amp;quot;value\&amp;quot;), OPTIONAL)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">219</property>
+  <property name="stepIndex">68</property>
+</record>
+<record>
+  <date>2019-06-12T12:59:58</date>
+  <millis>1560337198843</millis>
+  <sequence>575</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Attribute &amp;apos;value&amp;apos; of object &amp;apos;Object Repository/PaciensFelvetelForm/input_SzuletesiNev&amp;apos; is: &amp;apos;szulNev&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:58</date>
+  <millis>1560337198845</millis>
+  <sequence>577</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Actual object &amp;apos;szulNev&amp;apos; and expected object &amp;apos;szulNev&amp;apos; are equal</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:58</date>
+  <millis>1560337198846</millis>
+  <sequence>578</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : verifyEqual(var_szulNev, getAttribute(findTestObject(\&amp;quot;PaciensFelvetelForm/input_SzuletesiNev\&amp;quot;), \&amp;quot;value\&amp;quot;), OPTIONAL)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:58</date>
+  <millis>1560337198846</millis>
+  <sequence>579</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : verifyEqual(var_anyjaNeve, getAttribute(findTestObject(\&amp;quot;PaciensFelvetelForm/input_AnyjaNeve\&amp;quot;), \&amp;quot;value\&amp;quot;), OPTIONAL)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">221</property>
+  <property name="stepIndex">69</property>
+</record>
+<record>
+  <date>2019-06-12T12:59:58</date>
+  <millis>1560337198875</millis>
+  <sequence>587</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Attribute &amp;apos;value&amp;apos; of object &amp;apos;Object Repository/PaciensFelvetelForm/input_AnyjaNeve&amp;apos; is: &amp;apos;anyjaNeve&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:58</date>
+  <millis>1560337198877</millis>
+  <sequence>589</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Actual object &amp;apos;anyjaNeve&amp;apos; and expected object &amp;apos;anyjaNeve&amp;apos; are equal</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:58</date>
+  <millis>1560337198877</millis>
+  <sequence>590</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : verifyEqual(var_anyjaNeve, getAttribute(findTestObject(\&amp;quot;PaciensFelvetelForm/input_AnyjaNeve\&amp;quot;), \&amp;quot;value\&amp;quot;), OPTIONAL)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:58</date>
+  <millis>1560337198877</millis>
+  <sequence>591</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : verifyEqual(var_tel, getAttribute(findTestObject(\&amp;quot;PaciensFelvetelForm/input_Telefonszam\&amp;quot;), \&amp;quot;value\&amp;quot;), OPTIONAL)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">224</property>
+  <property name="stepIndex">70</property>
+</record>
+<record>
+  <date>2019-06-12T12:59:58</date>
+  <millis>1560337198905</millis>
+  <sequence>599</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Attribute &amp;apos;value&amp;apos; of object &amp;apos;Object Repository/PaciensFelvetelForm/input_Telefonszam&amp;apos; is: &amp;apos;tel&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:58</date>
+  <millis>1560337198907</millis>
+  <sequence>601</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Actual object &amp;apos;tel&amp;apos; and expected object &amp;apos;tel&amp;apos; are equal</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:58</date>
+  <millis>1560337198908</millis>
+  <sequence>602</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : verifyEqual(var_tel, getAttribute(findTestObject(\&amp;quot;PaciensFelvetelForm/input_Telefonszam\&amp;quot;), \&amp;quot;value\&amp;quot;), OPTIONAL)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:58</date>
+  <millis>1560337198908</millis>
+  <sequence>603</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : verifyEqual(mobileSzamAtalkitott, getAttribute(findTestObject(\&amp;quot;PaciensFelvetelForm/input_Mobiltelefon\&amp;quot;), \&amp;quot;value\&amp;quot;), OPTIONAL)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">226</property>
+  <property name="stepIndex">71</property>
+</record>
+<record>
+  <date>2019-06-12T12:59:58</date>
+  <millis>1560337198935</millis>
+  <sequence>611</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Attribute &amp;apos;value&amp;apos; of object &amp;apos;Object Repository/PaciensFelvetelForm/input_Mobiltelefon&amp;apos; is: &amp;apos;30/214-7895&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:58</date>
+  <millis>1560337198936</millis>
+  <sequence>613</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Actual object &amp;apos;30/214-7895&amp;apos; and expected object &amp;apos;30/214-7895&amp;apos; are equal</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:58</date>
+  <millis>1560337198937</millis>
+  <sequence>614</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : verifyEqual(mobileSzamAtalkitott, getAttribute(findTestObject(\&amp;quot;PaciensFelvetelForm/input_Mobiltelefon\&amp;quot;), \&amp;quot;value\&amp;quot;), OPTIONAL)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:58</date>
+  <millis>1560337198937</millis>
+  <sequence>615</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : verifyEqual(var_irsz, getAttribute(findTestObject(\&amp;quot;PaciensFelvetelForm/input_Iranyitoszam\&amp;quot;), \&amp;quot;value\&amp;quot;), OPTIONAL)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">229</property>
+  <property name="stepIndex">72</property>
+</record>
+<record>
+  <date>2019-06-12T12:59:58</date>
+  <millis>1560337198968</millis>
+  <sequence>623</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Attribute &amp;apos;value&amp;apos; of object &amp;apos;Object Repository/PaciensFelvetelForm/input_Iranyitoszam&amp;apos; is: &amp;apos;irsz&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:58</date>
+  <millis>1560337198970</millis>
+  <sequence>625</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Actual object &amp;apos;irsz&amp;apos; and expected object &amp;apos;irsz&amp;apos; are equal</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:58</date>
+  <millis>1560337198970</millis>
+  <sequence>626</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : verifyEqual(var_irsz, getAttribute(findTestObject(\&amp;quot;PaciensFelvetelForm/input_Iranyitoszam\&amp;quot;), \&amp;quot;value\&amp;quot;), OPTIONAL)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:58</date>
+  <millis>1560337198971</millis>
+  <sequence>627</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : verifyEqual(var_telep, getAttribute(findTestObject(\&amp;quot;PaciensFelvetelForm/input_Telepules\&amp;quot;), \&amp;quot;value\&amp;quot;), OPTIONAL)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">231</property>
+  <property name="stepIndex">73</property>
+</record>
+<record>
+  <date>2019-06-12T12:59:59</date>
+  <millis>1560337199001</millis>
+  <sequence>635</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Attribute &amp;apos;value&amp;apos; of object &amp;apos;Object Repository/PaciensFelvetelForm/input_Telepules&amp;apos; is: &amp;apos;telep&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:59</date>
+  <millis>1560337199003</millis>
+  <sequence>637</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Actual object &amp;apos;telep&amp;apos; and expected object &amp;apos;telep&amp;apos; are equal</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:59</date>
+  <millis>1560337199004</millis>
+  <sequence>638</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : verifyEqual(var_telep, getAttribute(findTestObject(\&amp;quot;PaciensFelvetelForm/input_Telepules\&amp;quot;), \&amp;quot;value\&amp;quot;), OPTIONAL)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:59</date>
+  <millis>1560337199004</millis>
+  <sequence>639</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : verifyEqual(var_cim, getAttribute(findTestObject(\&amp;quot;PaciensFelvetelForm/input_Cim\&amp;quot;), \&amp;quot;value\&amp;quot;), OPTIONAL)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">233</property>
+  <property name="stepIndex">74</property>
+</record>
+<record>
+  <date>2019-06-12T12:59:59</date>
+  <millis>1560337199033</millis>
+  <sequence>647</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Attribute &amp;apos;value&amp;apos; of object &amp;apos;Object Repository/PaciensFelvetelForm/input_Cim&amp;apos; is: &amp;apos;cim&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:59</date>
+  <millis>1560337199035</millis>
+  <sequence>649</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Actual object &amp;apos;cim&amp;apos; and expected object &amp;apos;cim&amp;apos; are equal</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:59</date>
+  <millis>1560337199035</millis>
+  <sequence>650</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : verifyEqual(var_cim, getAttribute(findTestObject(\&amp;quot;PaciensFelvetelForm/input_Cim\&amp;quot;), \&amp;quot;value\&amp;quot;), OPTIONAL)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:59</date>
+  <millis>1560337199036</millis>
+  <sequence>651</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : verifyEqual(var_email, getAttribute(findTestObject(\&amp;quot;PaciensFelvetelForm/input_Email\&amp;quot;), \&amp;quot;value\&amp;quot;), OPTIONAL)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">235</property>
+  <property name="stepIndex">75</property>
+</record>
+<record>
+  <date>2019-06-12T12:59:59</date>
+  <millis>1560337199066</millis>
+  <sequence>659</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Attribute &amp;apos;value&amp;apos; of object &amp;apos;Object Repository/PaciensFelvetelForm/input_Email&amp;apos; is: &amp;apos;email&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:59</date>
+  <millis>1560337199068</millis>
+  <sequence>661</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Actual object &amp;apos;email&amp;apos; and expected object &amp;apos;email&amp;apos; are equal</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:59</date>
+  <millis>1560337199069</millis>
+  <sequence>662</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : verifyEqual(var_email, getAttribute(findTestObject(\&amp;quot;PaciensFelvetelForm/input_Email\&amp;quot;), \&amp;quot;value\&amp;quot;), OPTIONAL)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:59</date>
+  <millis>1560337199070</millis>
+  <sequence>663</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : verifyEqual(var_szig, getAttribute(findTestObject(\&amp;quot;PaciensFelvetelForm/input_SzemlyiIgSzama\&amp;quot;), \&amp;quot;value\&amp;quot;), OPTIONAL)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">237</property>
+  <property name="stepIndex">76</property>
+</record>
+<record>
+  <date>2019-06-12T12:59:59</date>
+  <millis>1560337199101</millis>
+  <sequence>671</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Attribute &amp;apos;value&amp;apos; of object &amp;apos;Object Repository/PaciensFelvetelForm/input_SzemlyiIgSzama&amp;apos; is: &amp;apos;szig&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:59</date>
+  <millis>1560337199104</millis>
+  <sequence>673</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Actual object &amp;apos;szig&amp;apos; and expected object &amp;apos;szig&amp;apos; are equal</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:59</date>
+  <millis>1560337199104</millis>
+  <sequence>674</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : verifyEqual(var_szig, getAttribute(findTestObject(\&amp;quot;PaciensFelvetelForm/input_SzemlyiIgSzama\&amp;quot;), \&amp;quot;value\&amp;quot;), OPTIONAL)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:59</date>
+  <millis>1560337199105</millis>
+  <sequence>675</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : verifyEqual(var_kgyogyKezd, getAttribute(findTestObject(\&amp;quot;PaciensFelvetelForm/input_KozgyogyKezdete\&amp;quot;), \&amp;quot;value\&amp;quot;), OPTIONAL)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">239</property>
+  <property name="stepIndex">77</property>
+</record>
+<record>
+  <date>2019-06-12T12:59:59</date>
+  <millis>1560337199134</millis>
+  <sequence>683</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Attribute &amp;apos;value&amp;apos; of object &amp;apos;Object Repository/PaciensFelvetelForm/input_KozgyogyKezdete&amp;apos; is: &amp;apos;2010-01-01&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:59</date>
+  <millis>1560337199137</millis>
+  <sequence>685</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Actual object &amp;apos;2010-01-01&amp;apos; and expected object &amp;apos;2010-01-01&amp;apos; are equal</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:59</date>
+  <millis>1560337199138</millis>
+  <sequence>686</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : verifyEqual(var_kgyogyKezd, getAttribute(findTestObject(\&amp;quot;PaciensFelvetelForm/input_KozgyogyKezdete\&amp;quot;), \&amp;quot;value\&amp;quot;), OPTIONAL)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:59</date>
+  <millis>1560337199138</millis>
+  <sequence>687</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : verifyEqual(var_kgyogyVege, getAttribute(findTestObject(\&amp;quot;PaciensFelvetelForm/input_KozgyogyVege\&amp;quot;), \&amp;quot;value\&amp;quot;), OPTIONAL)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">242</property>
+  <property name="stepIndex">78</property>
+</record>
+<record>
+  <date>2019-06-12T12:59:59</date>
+  <millis>1560337199169</millis>
+  <sequence>695</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Attribute &amp;apos;value&amp;apos; of object &amp;apos;Object Repository/PaciensFelvetelForm/input_KozgyogyVege&amp;apos; is: &amp;apos;2010-03-10&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:59</date>
+  <millis>1560337199171</millis>
+  <sequence>697</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Actual object &amp;apos;2010-03-10&amp;apos; and expected object &amp;apos;2010-03-10&amp;apos; are equal</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:59</date>
+  <millis>1560337199172</millis>
+  <sequence>698</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : verifyEqual(var_kgyogyVege, getAttribute(findTestObject(\&amp;quot;PaciensFelvetelForm/input_KozgyogyVege\&amp;quot;), \&amp;quot;value\&amp;quot;), OPTIONAL)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:59</date>
+  <millis>1560337199172</millis>
+  <sequence>699</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : verifyEqual(var_kgyogyIgSzam, getAttribute(findTestObject(\&amp;quot;PaciensFelvetelForm/input_KozgyogyIgSzama\&amp;quot;), \&amp;quot;value\&amp;quot;), OPTIONAL)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">245</property>
+  <property name="stepIndex">79</property>
+</record>
+<record>
+  <date>2019-06-12T12:59:59</date>
+  <millis>1560337199207</millis>
+  <sequence>707</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Attribute &amp;apos;value&amp;apos; of object &amp;apos;Object Repository/PaciensFelvetelForm/input_KozgyogyIgSzama&amp;apos; is: &amp;apos;kgyogyIgSzam&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:59</date>
+  <millis>1560337199209</millis>
+  <sequence>709</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Actual object &amp;apos;kgyogyIgSzam&amp;apos; and expected object &amp;apos;kgyogyIgSzam&amp;apos; are equal</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:59</date>
+  <millis>1560337199209</millis>
+  <sequence>710</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : verifyEqual(var_kgyogyIgSzam, getAttribute(findTestObject(\&amp;quot;PaciensFelvetelForm/input_KozgyogyIgSzama\&amp;quot;), \&amp;quot;value\&amp;quot;), OPTIONAL)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:59</date>
+  <millis>1560337199210</millis>
+  <sequence>711</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : click(findTestObject(\&amp;quot;PaciensFelvetelForm/btnPcienstrzsBack\&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">248</property>
+  <property name="stepIndex">80</property>
+</record>
+<record>
+  <date>2019-06-12T12:59:59</date>
+  <millis>1560337199349</millis>
+  <sequence>718</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Object: &amp;apos;Object Repository/PaciensFelvetelForm/btnPcienstrzsBack&amp;apos; is clicked on</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:59</date>
+  <millis>1560337199349</millis>
+  <sequence>719</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : click(findTestObject(\&amp;quot;PaciensFelvetelForm/btnPcienstrzsBack\&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:59</date>
+  <millis>1560337199349</millis>
+  <sequence>720</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Test Cases/MODULOK_nincs_login_belinkelve/Pacienstorzs/TC-MODUL-Pacienstorzs_paciensfelvetel_full_check</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T12:59:59</date>
+  <millis>1560337199353</millis>
+  <sequence>721</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endTest</method>
+  <thread>1</thread>
+  <message>End Test Case : Test Cases/MODULOK_nincs_login_belinkelve/Pacienstorzs/TC-MODUL-Pacienstorzs_paciensfelvetel_full_check</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2019-06-12T13:00:00</date>
+  <millis>1560337200202</millis>
+  <sequence>722</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endSuite</method>
+  <thread>1</thread>
+  <message>End Test Suite : Test Suites/TS-FULL</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+</log>

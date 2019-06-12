@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>A globalis valtozoknal megadott azonosítót veszi alapul, majd rákeres és megpróbálja törölni az összes ilyen TAJ számot.
+Végigmegy minden!</description>
+   <name>TC-MODUL-Pacienstorzs_kereses_torles_ELSO_talalat</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7c68a912-a60b-48f3-a7c1-da84851cfb81</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>5a84291d-0b8c-432c-82d8-7e7726746fd9</id>
+      <masked>false</masked>
+      <name>variable</name>
+   </variable>
+</TestCaseEntity>

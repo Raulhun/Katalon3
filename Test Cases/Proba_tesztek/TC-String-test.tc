@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-String-test</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>81dc9e9c-7ca1-4f5a-ac30-ca41b50788b5</testCaseGuid>
+   <variable>
+      <defaultValue>'30112223333'</defaultValue>
+      <description></description>
+      <id>466ac6e3-4bc1-47c6-8721-bdbf8a20ea82</id>
+      <masked>false</masked>
+      <name>str</name>
+   </variable>
+</TestCaseEntity>
